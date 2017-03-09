@@ -2,7 +2,7 @@
 
 The application carries out a 2-stage quiz. 
 
-It was designed specifically to carry out "Co wiesz o Zorach?" contest ("What do you know about Zory?") which is held each year by [Towarzystwo Milosnikow Miasta Zory](http://tmmz.zory.pl/) association.  
+It was designed specifically to carry out "Co wiesz o Zorach?" contest ("What do you know about Zory?") which is held each year since 1977 by [Towarzystwo Milosnikow Miasta Zory](http://tmmz.zory.pl/) association. The application is in use since 2015.  
 
 ##**Photos** from the events:
 
@@ -14,10 +14,13 @@ It was designed specifically to carry out "Co wiesz o Zorach?" contest ("What do
 **Main panel**
 ![alt tag](https://github.com/marta-krzyk-dev/QuizApplication/blob/master/Quiz%20main%20panel.png?raw=true)
 
+**A contestant answering a question**
 ![alt tag](https://github.com/marta-krzyk-dev/QuizApplication/blob/master/Quiz%20question.png?raw=true)
 
+**Drawing a random question**
 ![alt tag](https://github.com/marta-krzyk-dev/QuizApplication/blob/master/Drawing%20a%20random%20question.png?raw=true)
 
+**Finale**
 ![alt tag](https://github.com/marta-krzyk-dev/QuizApplication/blob/master/Finale.png?raw=true)
 
 **Control panel**
