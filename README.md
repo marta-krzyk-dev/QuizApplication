@@ -27,7 +27,14 @@ It was designed specifically to carry out "Co wiesz o Zorach?" contest ("What do
 ![alt tag](https://github.com/marta-krzyk-dev/QuizApplication/blob/master/Control%20panel.png?raw=true)
 
 **Loading a question set with images**
-![alt tag](https://github.com/marta-krzyk-dev/QuizApplication/blob/master/Filling%20in%20a%20set%20of%20questions%20and%20answers.png?raw=true)
+![alt tag]()
 
+**Loading a question set without images**
+![alt tag](https://github.com/marta-krzyk-dev/QuizApplication/blob/master/Retrieving%20questions%20from%20a%20text%20file.png?raw=true)
 
+**Settings**
+![alt tag](https://github.com/marta-krzyk-dev/QuizApplication/blob/master/Settings%20in%20control%20panel.png?raw=true)
+
+**Loading contestants' data**
+![alt tag]()
 
