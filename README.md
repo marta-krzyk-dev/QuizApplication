@@ -11,4 +11,14 @@ It was designed specifically to carry out "Co wiesz o Zorach?" contest ("What do
 [Contest 2016] (http://tmmz.zory.pl/wiadomosci/final-xxxix-konkursu-co-wiesz-o-zorach/)
 
 **Screenshots**
-![alt tag](http://url/to/img.png)
+![alt tag](../QuizApplication/Quiz main panel.png)
+
+![alt tag]()
+
+![alt tag](/QuizApplication/Quiz question wrong answer.png)
+
+![alt tag](https://github.com/marta-krzyk-dev/QuizApplication/blob/master/Quiz%20question.png?raw=true)
+![alt tag]()
+![alt tag]()
+![alt tag]()
+
