@@ -80,3 +80,4 @@ private: System::Void timer_Tick(System::Object^  sender, System::EventArgs^  e)
 				g->DrawString(time_in_seconds.ToString(), draw_font, draw_brush, text_start_point);		
 	
 }
+}
