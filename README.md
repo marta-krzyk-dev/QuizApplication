@@ -17,6 +17,8 @@ Visual Studio
 
 [Contest 2016](http://tmmz.zory.pl/wiadomosci/final-xxxix-konkursu-co-wiesz-o-zorach/)
 
+[Contest 2017](http://tmmz.zory.pl/wiadomosci/final-xl-konkursu-co-wiesz-o-zorach/)
+
 ## **Screenshots**
 **Main panel**
 ![alt tag](https://github.com/marta-krzyk-dev/QuizApplication/blob/master/Quiz%20main%20panel.png?raw=true)
